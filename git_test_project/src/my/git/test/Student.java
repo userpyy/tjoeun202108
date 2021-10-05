@@ -3,6 +3,7 @@ package my.git.test;
 public class Student {
 	private String name;
 	private int age;
+	private String add;
 	public Student(String name, int age) {
 		super();
 		this.name = name;
@@ -11,7 +12,6 @@ public class Student {
 	public Student() {
 		super();
 	}
-	
 	public String getName() {
 		return name;
 	}
