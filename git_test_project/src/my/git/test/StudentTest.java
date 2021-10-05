@@ -9,6 +9,7 @@ public class StudentTest {
 		Student st = new Student("하하", 40);
 		System.out.println(st+"!!!");
 		System.out.println("test");
+		System.out.println("test2");
 
 	}
 
